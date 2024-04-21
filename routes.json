@@ -10,7 +10,7 @@
         "ridershipShare": 0.09516
     },
     "r12": {
-        "stops": ["Englewood Station", "Hapden - Pennsylvania", "Downing - Evans", "Louisiana & Peral Station", "Downing - Alameda", "Downing - 6th", "Downing - Colfax", "Downing - 29th", "38th & Blake Station"],
+        "stops": ["Englewood Station", "Hampden - Pennsylvania", "Downing - Evans", "Louisiana & Pearl Station", "Downing - Alameda", "Downing - 6th", "Downing - Colfax", "Downing - 29th", "38th & Blake Station"],
         "timeFromFirstStop": [0,7,15,21,27,31,38,46,53],
         "ridershipShare": 0.05263
     },
