@@ -1,0 +1,47 @@
+{
+    "r0": {
+        "stops": ["Highlands Ranch Town Center", "Broadway - Mineral", "Broadway - Arapahoe", "Broadway - Littleton", "Englewood Station", "Broadway - Evans", "I-25 & Broadway Station", "Lincoln - Alameda", "Colfax - Broadway", "Lawrence - 16th", "Union Station"],
+        "timeFromFirstStop": [0,9,13,17,34,44,53,58,68,73,78],
+        "ridershipShare": 0.10865
+    },
+    "r105": {
+        "stops": ["Southmoor Station","Hampden - Yosemite", "Havana - Iliff", "Havana - Mississippi", "Havana - Alameda", "Havana - 6th", "Havana - Colfax", "Montview - Dayton", "Central Park Station"],
+        "timeFromFirstStop": [0,7,15,20,24,27,32,36,45],
+        "ridershipShare": 0.09516
+    },
+    "r12": {
+        "stops": ["Englewood Station", "Hapden - Pennsylvania", "Downing - Evans", "Louisiana & Peral Station", "Downing - Alameda", "Downing - 6th", "Downing - Colfax", "Downing - 29th", "38th & Blake Station"],
+        "timeFromFirstStop": [0,7,15,21,27,31,38,46,53],
+        "ridershipShare": 0.05263
+    },
+    "r15": {
+        "stops": ["Union Station", "17th - Lawrence", "17th - Champa", "Colfax - Broadway", "Colfax - Downing", "Colfax - Josephine", "Colfax - Colorado", "Colfax - Quebec", "Colfax - Havana", "Colfax - Peoria", "Colfax - Billings"],
+        "timeFromFirstStop": [0,6,8,13,18,22,27,35,45,50,54],
+        "ridershipShare": 0.34524
+    },
+    "r153": {
+        "stops": ["Arapahoe at Village Center Station", "Arapahoe - Peoria", "Fremont - Potomac", "Arapahoe - Jordan", "Lewiston - McCallin", "Chambers - Quincy", "Chambers - Yale", "Aurora Metro Center Station", "Sable - Colfax", "30th - Sable", "Peoria Station"],
+        "timeFromFirstStop": [0,10,14,19,25,37,43,56,69,72,81],
+        "ridershipShare": 0.05543
+    },
+    "r16": {
+        "stops": ["Oak Station", "Colfax - Kipling", "Colfax - Wadsworth", "Colfax - Sheridan", "Decatur - Federal Station", "Colfax - Mariposa", "Colfax - Broadway"],
+        "timeFromFirstStop": [0,4,10,17,29,36,42],
+        "ridershipShare": 0.11492
+    },
+    "r21": {
+        "stops": ["Pierson - Jewell", "Jewell - Garrison", "Jewell - Wadsworth", "Evans - Sheridan", "Evans - Federal", "Evans Station", "Evans - University", "Colorado Station", "Evans - Monaco", "Iliff - Havana", "Iliff - Blackhawk", "Aurora Metro Center Station"],
+        "timeFromFirstStop": [0,4,8,14,20,31,39,47,54,66,73,83],
+        "ridershipShare": 0.05391
+    },
+    "r31": {
+        "stops": ["Federal - Evans", "Evans - Clay", "Federal - Evans", "Federal - Mississippi", "Federal - Alameda", "Decatur - Federal Station", "Federal - 32nd", "Federal - 50th", "Clear Creek - Federal Station", "Westminster Station"],
+        "timeFromFirstStop": [0,5,7,12,17,25,32,39,46,54],
+        "ridershipShare": 0.11401
+    },
+    "r40": {
+        "stops": ["Southmoor Station", "Colorado - Hampden", "Colorado - Yale", "Colorado Station", "Colorado - Mississippi", "Colorado - Alameda", "Colorado - 9th", "Colorado - Colfax", "Colorado - Bruce Randolph", "40th & Colorado Station"],
+        "timeFromFirstStop": [0,6,9,14,20,25,30,33,38,43],
+        "ridershipShare": 0.06005
+    }
+}
